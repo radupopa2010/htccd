@@ -1,7 +1,7 @@
 #reader(lib"read.ss""wxme")WXME0108 ## 
 #|
    This file uses the GRacket editor format.
-   Open this file in DrRacket version 6.12 or later to read it.
+   Open this file in DrRacket version 7.0 or later to read it.
 
    Most likely, it was created by saving a program in DrRacket,
    and it probably contains a program with non-text elements
@@ -5098,7 +5098,7 @@
 0 0 -1 -1 0 1 #"\0"
 0 75 12 #"Courier New\0"
 0.0 10 92 -1 90 -1 3 -1 0 1 0 1 0 0 0.0 0.0 0.0 0.0 0.0 0.0 0 0 0 255
-255 255 1 -1           0 1007 0 4 3 85
+255 255 1 -1           0 1006 0 4 3 85
 (
  #";; The first three lines of this file were inserted by DrRacket. The"
  #"y record metadata"
@@ -5624,8 +5624,7 @@
 0 0 24 29 1 #"\n"
 0 0 17 3 57 #";; Wizard is (make-wiz String String String ListOfWizard)"
 0 0 24 29 1 #"\n"
-0 0 17 3 21 #";; interp. a wizard i"
-0 0 17 3 26 #"n a descendant family tree"
+0 0 17 3 47 #";; interp. a wizard in a descendant family tree"
 0 0 24 29 1 #"\n"
 0 0 17 3 33 #";;         name is the first name"
 0 0 24 29 1 #"\n"
@@ -5988,8 +5987,7 @@
 0 0 24 3 1 #")"
 0 0 24 29 1 #"\n"
 0 0 24 3 1 #"("
-0 0 15 3 3 #"def"
-0 0 15 3 3 #"ine"
+0 0 15 3 6 #"define"
 0 0 24 3 1 #" "
 0 0 14 3 4 #"LOP2"
 0 0 24 3 2 #" ("
@@ -6485,7 +6483,8 @@
 0 0 24 3 3 #")))"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
-0 0 17 3 47 #";<templates taken from Wizard and ListOfWizard>"
+0 0 17 3 10 #";<template"
+0 0 17 3 37 #"s taken from Wizard and ListOfWizard>"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
 0 0 24 3 1 #"("
